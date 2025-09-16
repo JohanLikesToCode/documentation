@@ -11,14 +11,13 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Norfolk Southern State Roleplay",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Introduction",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "join"
             ]
           },
           {
@@ -29,40 +28,55 @@
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Rules & Guidelines",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "discord-rules",
+              "in-game-guidelines"
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Roles & Jobs",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "roles-jobs",
+              "faq"
             ]
           }
         ]
       },
       {
-        "tab": "API reference",
+      "tab": "Guides",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "Player Guides",
             "pages": [
-              "api-reference/introduction"
+              "guides",
+              "roleplay-tips"
             ]
-          },
+          }
+        ]
+      },
+      {
+        "tab": "Support",
+        "groups": [
           {
-            "group": "Endpoint examples",
+            "group": "Help & Contact",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "support",
+              "report-issues",
+              "appeals"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Community",
+        "groups": [
+          {
+            "group": "Links",
+            "pages": [
+              "discord",
+              "roblox-group",
+              "socials"
             ]
           }
         ]
@@ -71,19 +85,19 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Discord",
+          "href": "https://discord.gg/YOUR_INVITE",
+          "icon": "discord"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "Roblox",
+          "href": "https://www.roblox.com/groups/YOUR_GROUP_ID",
+          "icon": "game-controller"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "X",
+          "href": "https://x.com/NSSRP",
+          "icon": "x"
         }
       ]
     }
