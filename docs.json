@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Norfolk Southern State Roleplay",
   "colors": {
     "primary": "#000000",
     "light": "#FFFFFF",
@@ -30,8 +30,8 @@
           {
             "group": "Roles & Jobs",
             "pages": [
-              "roles-jobs",
-              "faq"
+              "NSSRP/roles-jobs",
+              "NSSRP/faq"
             ]
           }
         ]
