@@ -88,9 +88,9 @@
           "icon": "gamepad"
         },
         {
-          "anchor": "X",
-          "href": "https://x.com/NSSRP",
-          "icon": "x"
+          "anchor": "Website",
+          "href": "https://nssrp.netlify.app",
+          "icon": "globe"
         }
       ]
     }
