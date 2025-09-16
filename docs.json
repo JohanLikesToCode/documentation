@@ -89,8 +89,8 @@
     }
   },
   "logo": {
-    "light": "/logo/BG-W.png",
-    "dark": "/logo/BG-B.png"
+    "light": "/logo/NSSRPLogo.png",
+    "dark": "/logo/NSSRPLogo.png"
   },
   "navbar": {
     "links": [
