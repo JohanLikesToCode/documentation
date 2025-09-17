@@ -44,6 +44,7 @@
           {
             "group": "Norfolk Law Enforcement",
             "pages": [
+              "departments/nle",
               "departments/nle-policies",
               "departments/10-codes",
               "departments/penal-codes"
