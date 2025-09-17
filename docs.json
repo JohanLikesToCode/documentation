@@ -27,12 +27,7 @@
               "NSSRP/discord-rules",
               "NSSRP/in-game-guidelines"
             ]
-          }
-        ]
-      },
-      {
-      "tab": "Guides",
-        "groups": [
+          },
           {
             "group": "Player Guides",
             "pages": [
