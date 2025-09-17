@@ -49,7 +49,7 @@
           {
             "group": "Norfolk Law Enforcement",
             "pages": [
-              "departments/policies-and-procedures",
+              "departments/nle-policies",
               "departments/10-codes",
               "departments/penal-codes"
             ]
@@ -57,8 +57,8 @@
           {
             "group": "Norfolk Fire and Rescue",
             "pages": [
-              "policies-and-procedures",
-              "10-codes",
+              "department/nfr-policies",
+              "department/nfr-communications",
               "penal-codes"
             ]
           },
