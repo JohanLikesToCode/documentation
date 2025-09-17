@@ -42,8 +42,8 @@
           {
             "group": "Player Guides",
             "pages": [
-              "guides",
-              "roleplay-tips"
+              "guides/guides",
+              "guides/roleplay-tips"
             ]
           }
         ]
