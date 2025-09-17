@@ -44,27 +44,30 @@
         ]
       },
       {
-        "tab": "Support",
+        "tab": "Departments",
         "groups": [
           {
-            "group": "Help & Contact",
+            "group": "Norfolk Law Enforcement",
             "pages": [
-              "support",
-              "report-issues",
-              "appeals"
+              "policies-and-procedures",
+              "10-codes",
+              "penal-codes"
             ]
-          }
-        ]
-      },
-      {
-        "tab": "Community",
-        "groups": [
+          },
           {
-            "group": "Links",
+            "group": "Norfolk Fire and Rescue",
             "pages": [
-              "discord",
-              "roblox-group",
-              "socials"
+              "policies-and-procedures",
+              "10-codes",
+              "penal-codes"
+            ]
+          },
+          {
+            "group": "Norfolk Department Of Transportation",
+            "pages": [
+              "policies-and-procedures",
+              "10-codes",
+              "penal-codes"
             ]
           }
         ]
