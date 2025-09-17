@@ -57,8 +57,8 @@
           {
             "group": "Norfolk Fire and Rescue",
             "pages": [
-              "department/nfr-policies",
-              "department/nfr-communications",
+              "departments/nfr-policies",
+              "departments/nfr-communications",
               "penal-codes"
             ]
           },
