@@ -17,7 +17,8 @@
             "group": "Introduction",
             "pages": [
               "index",
-              "NSSRP/join"
+              "NSSRP/join",
+              "NSSRP/faq"
             ]
           },
           {
@@ -26,16 +27,7 @@
               "NSSRP/discord-rules",
               "NSSRP/in-game-guidelines"
             ]
-          },
-          {
-            "group": "Roles & Jobs",
-            "pages": [
-              "NSSRP/roles-jobs",
-              "NSSRP/faq"
-            ]
           }
-        ]
-      },
       {
       "tab": "Guides",
         "groups": [
